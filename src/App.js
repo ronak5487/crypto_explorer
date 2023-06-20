@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import { RiBitCoinLine, RiBitcoinLine } from 'react-icons/ri';
+import { RiBitCoinLine} from 'react-icons/ri';
 import './App.css';
 
 function App() {
