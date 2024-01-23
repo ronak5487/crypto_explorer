@@ -67,7 +67,7 @@ function App() {
       </div>
       {!showMore && (
         <button className="show-more-btn" onClick={handleShowMoreClick}>
-          Show More
+          Show More !!
         </button>
       )}
       {selectedCrypto && (
